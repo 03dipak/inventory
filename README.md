@@ -1,0 +1,2 @@
+# inventory
+Creating django project
